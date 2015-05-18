@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="615b2730-2719-401a-9b31-22642affe326" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Static" afterPath="$PROJECT_DIR$/Static" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coffeed/Templates/index.html" />
+      <change type="DELETED" beforePath="C:\Users\Mark\coffeed\Static" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="coffeed.iws" />
@@ -389,7 +390,13 @@
       <option name="project" value="LOCAL" />
       <updated>1431966115126</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="3Rd Commit">
+      <created>1431966295012</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1431966295012</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -429,14 +436,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
